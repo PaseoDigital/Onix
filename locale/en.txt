@@ -1,0 +1,68 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Alta tecnología sobre 4 ruedas. Conectividad, seguridad y comfort.
+
+### Title
+tour.name = DLS - Chevrolet New Onix
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = PERSPECTIVAS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = PERSPECTIVAS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = PHOTOALBUM
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = PHOTOALBUM
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMACIÓN
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMACIÓN
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = COMPRAR
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = COMPRAR
+
+### Multiline Text
+HTMLText_4EF5C34F_7FCE_2159_41D1_9829A87E30A9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:18px;font-family:'Exo';"><B><I>New Onix</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>New Onix</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>Chevrolet</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Exo';"><B><I>Chevrolet</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.02vw;font-family:'Exo';"><B><I>New Onix</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:1.57vw;font-family:'Exo';"><B><I>HATCHBACK 1.0 / TURBO / 116 HP / AUTOMÁTICO</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.09vw;font-family:'Roboto Medium';">Pase más tiempo en las calles y menos tiempo abasteciendo su motor 1.0L turbo. Al manejar, tenga más comodidad con la transmisión automática de seis velocidades, con un controlador de velocidad crucero.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.78vw;"><BR STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.09vw;font-family:'Roboto Medium';"><B>Seguro desde adentro</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.09vw;font-family:'Roboto Medium';">Onix Sedán te ayuda a mantener a tu familia segura con su cabina de acero de alta resistencia y sus 6 airbags, obteniendo la nota máxima en seguridad en la LatinNCAP con 5 estrellas tanto para adultos como para niños.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">Modelo 2020 / 0 km / Nafta / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:0.97vw;font-family:'Roboto Black';">5 puertas / 116 HP / Automático</SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13.91vmin;font-family:'Exo';"><B><I>New Onix</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:7.23vmin;font-family:'Exo';"><B><I>HATCHBACK 1.0 / TURBO / 116 HP / AUTOMÁTICO</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.57vmin;"><BR STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:23.03vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vmin;font-family:'Roboto Medium';">Pase más tiempo en las calles y menos tiempo abasteciendo su motor 1.0L turbo. Al manejar, tenga más comodidad con la transmisión automática de seis velocidades, con un controlador de velocidad crucero.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.59vmin;"><BR STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:23.03vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vmin;font-family:'Roboto Medium';"><B>Seguro desde adentro</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5vmin;font-family:'Roboto Medium';">Onix Sedán te ayuda a mantener a tu familia segura con su cabina de acero de alta resistencia y sus 6 airbags, obteniendo la nota máxima en seguridad en la LatinNCAP con 5 estrellas tanto para adultos como para niños.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.47vmin;"><BR STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:23.03vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.47vmin;font-family:'Roboto Black';">Modelo 2020 / 0 km / Nafta / </SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#e7392b;font-size:4.47vmin;font-family:'Roboto Black';">5 puertas / 116 HP / Automático</SPAN></SPAN></DIV></div>
+HTMLText_E5DB86E3_F19D_B04D_41DA_3F55D1B885EC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.36vh;"><B>Viajá tranquilo</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.68vh;"><BR STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.36vh;">Tu seguridad y comodidad son primordiales, por eso el New Onix viene completamente equipado con sistemas de asistencia inteligente, AirBags frontales, laterales y de cortinas, ABS, Asistencia OnStar y mucho más.</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_D236F877_F21B_0BBA_41DA_D774E9E31DF7.label = Chevrolet New Onix
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE.label = Photo Album airbags cortinas
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE_0.label = airbags cortinas
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE_1.label = airbags frontales
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE_2.label = airbags laterales
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE_3.label = airbags todos
+album_E5735A30_F1AE_53CB_41A8_95D9510AC1CE_4.label = disposición
+panorama_FCB8CED0_F1A2_704B_41EA_7F59518BF9F7.label = Toma 7
+panorama_FCFC5515_F19F_D1F5_41EA_55D11F9E46E1.label = Toma 1
+panorama_FD3EC5CB_F1A2_B05D_419B_84C663EA34D8.label = Toma 8
+panorama_FD5834C0_F1A2_B04C_41E0_98079739945B.label = Toma 11
+panorama_FDA8A438_F19D_D03B_41E1_02610A2FDE5F.label = Toma 6
+panorama_FDC00268_F19E_B05B_41D5_D1BC69593C64.label = Toma 4
+panorama_FDC10C9F_F1A3_B0F5_41D8_5E31447B7940.label = Toma 10
+panorama_FDC3DEED_F19F_B055_41E8_FDDB1EC847F9.label = Toma 2
+panorama_FDCFABE7_F19E_5055_41EB_7E567CF89BDB.label = Toma 5
+panorama_FDCFE609_F1A2_B3DD_41CE_B73AB1CDEFDF.label = Toma 12
+panorama_FDE62C4B_F1A3_B05D_41EE_247686002B06.label = Toma 9
+panorama_FDF378CB_F19E_B05D_41E5_EDC852A47FEB.label = Toma 3
+video_D0FFE428_F2F9_1B56_41CD_9F3DAB32B8D9.label = Nuevo Chevrolet Onix _ con WIFI para cambiarlo todo _ Hatchback-naSvGsE3MNw_x264
+video_E4B62FDC_F27B_04EE_41E7_7F19F9214C5C.label = Tecnología - Onix HB-yifg6xR9DLw_x264
+video_E6E72FF4_F20B_04BE_41E3_57A8FF0B81AF.label = Chevrolet Logo-lGbwn8DxZFI
+
+## Action
+
+### URL
+LinkBehaviour_FF86433F_F1AF_D035_41BC_6DEBB9A8C31F.source = http://twitter.com/loremipsum
+LinkBehaviour_FF86633F_F1AF_D035_41B8_2CE248A0723A.source = http://www.twitter.com/loremipsum
+LinkBehaviour_FF86933F_F1AF_D035_41D0_D674FDAF6345.source = http://www.facebook.com/loremipsum
+LinkBehaviour_FF86C33F_F1AF_D035_41DF_C2CFC4569396.source = http://www.facebook.com/loremipsum
+PopupWebFrameBehaviour_DE85E996_F21B_0D7A_41E0_BF511EAA8CD0.url = /ficha_tecnica/index.html
+PopupWebFrameBehaviour_EDD2A1F7_F209_1CBA_41DD_D80017ABAD6A.url = https://tienda.delasobera.com.py/automotores/producto/11
