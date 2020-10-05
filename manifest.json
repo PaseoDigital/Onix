@@ -1,4 +1,9 @@
 {
+ "name": "DLS - Chevrolet New Onix",
+ "start_url": "index.htm",
+ "description": "Alta tecnología sobre 4 ruedas. Conectividad, seguridad y comfort.",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +41,5 @@
    "sizes": "64x64"
   }
  ],
- "name": "DLS - Chevrolet New Onix",
- "start_url": "index.htm",
- "description": "Alta tecnología sobre 4 ruedas. Conectividad, seguridad y comfort.",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "display": "fullscreen"
 }
